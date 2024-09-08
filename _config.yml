@@ -18,7 +18,7 @@ tagline: Deep Learning
 description: Welcome to INF721 - Deep Learning!
 author: Lucas N. Ferreira
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://ufv-inf623.lucasnferreira.com' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://ufv-inf721-2024-2.lucasnferreira.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
