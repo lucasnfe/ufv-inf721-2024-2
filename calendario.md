@@ -25,7 +25,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">1</td>
     <td>09/09</td>
-    <td>1. Introduction</td>
+    <td>1. Introduction<br><a href="{{ 'assets/slides/A01-introducao.pdf' | relative_url }}">[slides]</a><a href="https://youtu.be/kzmHMerpUBU">[video]</a></td>
     <td></td>
     <td></td>
   </tr>
