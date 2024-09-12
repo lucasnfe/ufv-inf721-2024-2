@@ -8,11 +8,12 @@ description: The weekly event schedule.
 
 ## Textbooks
 
-While this course does not explicitly follow a specific textbook, there are useful references on many of the topics covered. Pointers to references will be provided here.
+While this course does not explicitly follow a specific textbook, the following are useful references on many of the topics covered.
 
 - [Dive into Deep Learning; Zhang, Aston, et al.; Cambridge University Press, 2023](https://d2l.ai/index.html)
 - [Deep Learning; Ian Goodfellow, Yoshua Bengio e Aaron Courville; MIT Press; 2016](https://www.deeplearningbook.org/)
 - [Deep Learning Foundations and Concepts, Christopher M. Bishop and Hugh Bishop, Springer, 2024](https://www.bishopbook.com/)
+- [Understanding Deep Learning; Simon J. D. Prince; The MIT Press, 2023](https://udlbook.github.io/udlbook/)
 - [The Little Book of Deep Learning; François Fleure; 2023](https://fleuret.org/francois/lbdl.html)
 
 ## Related Courses

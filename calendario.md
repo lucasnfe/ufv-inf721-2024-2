@@ -25,13 +25,13 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">1</td>
     <td>09/09</td>
-    <td>1. Introduction<br><a href="{{ 'assets/slides/A01-introducao.pdf' | relative_url }}">[slides]</a><a href="https://youtu.be/77FNyBwjdV8">[video]</a></td>
+    <td>1. Introduction<br><a href="{{ 'assets/slides/L01-introduction.pdf' | relative_url }}">[slides]</a><a href="https://youtu.be/77FNyBwjdV8">[video]</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>11/09</td>
-    <td>2. Linear Models</td>
+    <td>2. Machine Learning<br><a href="{{ 'assets/slides/L02-machine-learning.pdf' | relative_url }}">[slides]</a><a href="https://youtu.be/8iulB8B1iKE">[video]</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -40,7 +40,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">2</td>
     <td>16/09</td>
-    <td>3. Gradient Descent</td>
+    <td>3. Linear Models</td>
     <td></td>
     <td rowspan="3">PA1: Logistic Regression</td>
   </tr>
