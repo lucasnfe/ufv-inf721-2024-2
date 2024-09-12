@@ -31,7 +31,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>11/09</td>
-    <td>2. Machine Learning<br><a href="{{ 'assets/slides/L02-machine-learning.pdf' | relative_url }}">[slides]</a><a href="https://youtu.be/8iulB8B1iKE">[video]</a></td>
+    <td>2. Machine Learning<br><a href="{{ 'assets/slides/L02-machine-learning.pdf' | relative_url }}">[slides]</a><a href="{{ 'assets/notes/L02-machine-learning.pdf' | relative_url }}">[notes]</a><a href="https://youtu.be/8iulB8B1iKE">[video]</a></td>
     <td></td>
     <td></td>
   </tr>
