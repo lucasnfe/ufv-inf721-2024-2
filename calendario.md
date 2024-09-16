@@ -40,13 +40,13 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">2</td>
     <td>16/09</td>
-    <td>3. Linear Models</td>
+    <td>3. Linear Regression<br><a href="{{ 'assets/slides/L03-linear-regression.pdf' | relative_url }}">[slides]</a><a href="{{ '#' | relative_url }}">[notes]</a><a href="https://youtu.be/nUIU4UUNWVk">[video]</a></td>
     <td></td>
     <td rowspan="3">PA1: Logistic Regression</td>
   </tr>
   <tr>
     <td>18/09</td>
-    <td>4. MLP I</td>
+    <td>4. Logistic Regression</td>
     <td></td>
   </tr>
 
@@ -54,12 +54,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">3</td>
     <td>23/09</td>
-    <td>5. MLP II</td>
+    <td>5. MLP I</td>
     <td></td>
   </tr>
   <tr>
     <td>25/09</td>
-    <td>7. Evaluting Neural Networks</td>
+    <td>7. MLP II</td>
     <td></td>
     <td rowspan="3">PA2: Multilayer Perceptron</td>
   </tr>
@@ -68,12 +68,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">4</td>
     <td>30/09</td>
-    <td>8. Advanced Optimization Algorithms</td>
+    <td>8. Evaluting Neural Networks</td>
     <td></td>
   </tr>
   <tr>
     <td>02/10</td>
-    <td>9. Regularization</td>
+    <td>9. Advanced Optimization Algorithms</td>
     <td></td>
   </tr>
 
@@ -81,7 +81,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">5</td>
     <td>07/10</td>
-    <td>10. Normalization</td>
+    <td>10. Regularization & Normalization</td>
     <td></td>
     <td></td>
   </tr>
