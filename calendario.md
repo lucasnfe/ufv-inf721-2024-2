@@ -40,7 +40,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">2</td>
     <td>16/09</td>
-    <td>3. Linear Regression<br><a href="{{ 'assets/slides/L03-linear-regression.pdf' | relative_url }}">[slides]</a><a href="{{ '#' | relative_url }}">[notes]</a><a href="https://youtu.be/nUIU4UUNWVk">[video]</a></td>
+    <td>3. Linear Regression<br><a href="{{ 'assets/slides/L03-linear-regression.pdf' | relative_url }}">[slides]</a><a href="{{ '#' | relative_url }}">[notes]</a><a href="https://colab.research.google.com/drive/1wBSS1M9A3BqGwxSjmsSpLtGGwDCD5Ayh?usp=sharing">[code]</a><a href="https://youtu.be/nUIU4UUNWVk">[video]</a></td>
     <td></td>
     <td rowspan="3">PA1: Logistic Regression</td>
   </tr>
