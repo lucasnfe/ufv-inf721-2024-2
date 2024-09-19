@@ -46,7 +46,13 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>18/09</td>
-    <td>4. Logistic Regression<br><a href="{{ 'assets/slides/L04-logistic-regression.pdf' | relative_url }}">[slides]</a><a href="{{ '#' | relative_url }}">[notes]</a><a href="{{ '#' | relative_url }}">[code]</a><a href="{{ '#' | relative_url }}">[video]</a></td>
+    <td>4. Logistic Regression<br>
+      <a href="{{ 'assets/slides/L04-logistic-regression.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ '#' | relative_url }}">[notes]</a>
+      <a href="{{ 'https://colab.research.google.com/drive/1T9WFg3Du6kRLNcpyVmOMDzsVVHtxm9A_?usp=sharing' | relative_url }}">[code]</a>
+      <a href="{{ 'https://youtu.be/dcDRi5LbbeE' | relative_url }}">[video 1]</a>
+      <a href="{{ 'https://youtu.be/w8ANvqkW31g' | relative_url }}">[video 2]</a>
+      <a href="{{ 'https://youtu.be/czXVeuhkjV8' | relative_url }}">[video 3]</a></td>
     <td></td>
   </tr>
 
