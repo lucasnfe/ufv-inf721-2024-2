@@ -64,10 +64,10 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">3</td>
     <td>23/09</td>
-    <td>5. MLP I</td>
+    <td>5. MLP I<br>
       <a href="{{ 'assets/slides/L05-MLP1.pdf' | relative_url }}">[slides]</a>
       <a href="{{ 'assets/notes/L5-MLP1.pdf' | relative_url }}">[notes]</a>
-      <a href="https://youtu.be/Egk8lOxanC8">[video]</a>
+      <a href="https://youtu.be/Egk8lOxanC8">[video]</a></td>
     <td></td>
     <td></td>
   </tr>
