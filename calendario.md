@@ -54,9 +54,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/slides/L04-logistic-regression.pdf' | relative_url }}">[slides]</a>
       <a href="{{ 'assets/notes/L04-logistic-regression.pdf' | relative_url }}">[notes]</a>
       <a href="{{ 'https://colab.research.google.com/drive/1T9WFg3Du6kRLNcpyVmOMDzsVVHtxm9A_?usp=sharing' | relative_url }}">[code]</a>
-      <a href="{{ 'https://youtu.be/dcDRi5LbbeE' | relative_url }}">[video 1]</a>
-      <a href="{{ 'https://youtu.be/w8ANvqkW31g' | relative_url }}">[video 2]</a>
-      <a href="{{ 'https://youtu.be/czXVeuhkjV8' | relative_url }}">[video 3]</a></td>
+      <a href="https://youtu.be/dcDRi5LbbeE">[video 1]</a>
+      <a href="https://youtu.be/w8ANvqkW31g">[video 2]</a>
+      <a href="https://youtu.be/czXVeuhkjV8">[video 3]</a></td>
     <td></td>
   </tr>
 
@@ -65,6 +65,10 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td rowspan="2">3</td>
     <td>23/09</td>
     <td>5. MLP I</td>
+      <a href="{{ 'assets/slides/L05-MLP1.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ '#' | relative_url }}">[notes]</a>
+      <a href="https://youtu.be/Egk8lOxanC8">[video]</a>
+    <td></td>
     <td></td>
   </tr>
   <tr>
