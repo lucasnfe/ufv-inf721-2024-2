@@ -77,7 +77,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/notes/L5-MLP1.pdf' | relative_url }}">[notes]</a>
       <a href="https://youtu.be/Egk8lOxanC8">[video]</a></td>
     <td>
-      <a href="https://d2l.ai/chapter_multilayer-perceptrons/mlp.html">Dive Into Deep Learning, Ch. 5.1. Multilayer Perceptrons</a>
+      <a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html"> INNMC - The Multilayer Perceptron</a>
     </td>
     <td></td>
   </tr>
