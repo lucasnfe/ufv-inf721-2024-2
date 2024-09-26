@@ -32,7 +32,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td>11/09</td>
     <td>2. Machine Learning<br><a href="{{ 'assets/slides/L02-machine-learning.pdf' | relative_url }}">[slides]</a><a href="{{ 'assets/notes/L02-machine-learning.pdf' | relative_url }}">[notes]</a><a href="https://youtu.be/8iulB8B1iKE">[video]</a></td>
-    <td><a href="https://d2l.ai/chapter_introduction/index.html">Dive Into Deep Learning, Ch. 1. Introduction</a></td>
+    <td>
+      <a href="https://developers.google.com/machine-learning/intro-to-ml">Google ML, Introduction to Machine Learning</a>
+    </td>
     <td></td>
   </tr>
 
@@ -44,8 +46,11 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/slides/L03-linear-regression.pdf' | relative_url }}">[slides]</a>
       <a href="{{ 'assets/notes/L03-linear-regression.pdf' | relative_url }}">[notes]</a>
       <a href="https://colab.research.google.com/drive/1wBSS1M9A3BqGwxSjmsSpLtGGwDCD5Ayh?usp=sharing">[code]</a>
-      <a href="https://youtu.be/nUIU4UUNWVk">[video]</a></td>
-    <td></td>
+      <a href="https://youtu.be/nUIU4UUNWVk">[video]</a>
+    </td>
+    <td>
+      <a href="https://developers.google.com/machine-learning/crash-course/linear-regression">Google ML, Linear Regression</a>
+    </td>
     <td rowspan="3">PA1: Logistic Regression</td>
   </tr>
   <tr>
@@ -56,8 +61,11 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'https://colab.research.google.com/drive/1T9WFg3Du6kRLNcpyVmOMDzsVVHtxm9A_?usp=sharing' | relative_url }}">[code]</a>
       <a href="https://youtu.be/dcDRi5LbbeE">[video 1]</a>
       <a href="https://youtu.be/w8ANvqkW31g">[video 2]</a>
-      <a href="https://youtu.be/czXVeuhkjV8">[video 3]</a></td>
-    <td></td>
+      <a href="https://youtu.be/czXVeuhkjV8">[video 3]</a>
+    </td>
+    <td>
+      <a href="https://developers.google.com/machine-learning/crash-course/logistic-regression">Google ML, Logistic Regression</a>
+    </td>
   </tr>
 
   <!-- Semana 3 -->
@@ -68,7 +76,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/slides/L05-MLP1.pdf' | relative_url }}">[slides]</a>
       <a href="{{ 'assets/notes/L5-MLP1.pdf' | relative_url }}">[notes]</a>
       <a href="https://youtu.be/Egk8lOxanC8">[video]</a></td>
-    <td></td>
+    <td>
+      <a href="https://d2l.ai/chapter_multilayer-perceptrons/mlp.html">Dive Into Deep Learning, Ch. 5.1. Multilayer Perceptrons</a>
+    </td>
     <td></td>
   </tr>
   <tr>
