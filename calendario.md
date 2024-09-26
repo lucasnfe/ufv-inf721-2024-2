@@ -16,9 +16,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <th>Week</th>
     <th>Date</th>
-    <th>Lecture</th>
-    <th>Reading</th>
-    <th>Assignment</th>
+    <th>Lectures</th>
+    <th>Readings</th>
+    <th>Assignments</th>
   </tr>
 
   <!-- Semana 1 -->
@@ -51,7 +51,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>
       <a href="https://developers.google.com/machine-learning/crash-course/linear-regression">Google ML, Linear Regression</a>
     </td>
-    <td rowspan="3">PA1: Logistic Regression</td>
+    <td></td>
   </tr>
   <tr>
     <td>18/09</td>
@@ -66,38 +66,43 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>
       <a href="https://developers.google.com/machine-learning/crash-course/logistic-regression">Google ML, Logistic Regression</a>
     </td>
+    <td rowspan="3">
+      <a href="/assignments/pa1-logistic-regression">PA1: Logistic Regression</a>
+    </td>
   </tr>
 
   <!-- Semana 3 -->
   <tr>
     <td rowspan="2">3</td>
     <td>23/09</td>
-    <td>5. MLP I<br>
-      <a href="{{ 'assets/slides/L05-MLP1.pdf' | relative_url }}">[slides]</a>
-      <a href="{{ 'assets/notes/L5-MLP1.pdf' | relative_url }}">[notes]</a>
+    <td>5. MLP<br>
+      <a href="{{ 'assets/slides/L05-mlp.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ 'assets/notes/L05-mlp.pdf' | relative_url }}">[notes]</a>
       <a href="https://youtu.be/Egk8lOxanC8">[video]</a></td>
     <td>
-      <a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html"> INNMC - The Multilayer Perceptron</a>
+      <a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html"> INNMC - The Multilayer Perceptron (Forward propagation)</a>
     </td>
-    <td></td>
   </tr>
+
   <tr>
     <td>25/09</td>
-    <td>7. MLP II</td>
-    <td></td>
-    <td rowspan="3">PA2: Multilayer Perceptron</td>
+    <td>6. Backpropagation<br>
+      <a href="{{ 'assets/slides/L06-backpropagation.pdf' | relative_url }}">[slides]</a>[notes][video]</td>
+    </td>
+    <td><a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html"> INNMC - The Multilayer Perceptron (Backpropagation)</a></td>
   </tr>
 
   <!-- Semana 5 -->
   <tr>
     <td rowspan="2">4</td>
     <td>30/09</td>
-    <td>8. Evaluting Neural Networks</td>
+    <td><b>Feriado Municipal (Dia da Cidade)</b></td>
     <td></td>
+    <td rowspan="3">PA2: Multilayer Perceptron</td>
   </tr>
   <tr>
     <td>02/10</td>
-    <td>9. Advanced Optimization Algorithms</td>
+    <td>7. Evaluting Neural Networks</td>
     <td></td>
   </tr>
 
@@ -105,13 +110,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">5</td>
     <td>07/10</td>
-    <td>10. Regularization & Normalization</td>
-    <td></td>
+    <td>8. Regularization & Normalization</td>
     <td></td>
   </tr>
   <tr>
     <td>09/10</td>
-    <td><b>Midterm Exam I</b></td>
+    <td>9. Advanced Optimization Algorithms</td>
     <td></td>
     <td></td>
   </tr>
@@ -120,41 +124,44 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">6</td>
     <td>14/10</td>
-    <td>11. CNNs I</td>
+    <td><b>Midterm Exam I</b></td>
     <td></td>
-    <td rowspan="3">PA3: Convolutional Neural Networks</td>
+    <td></td>
   </tr>
   <tr>
     <td>16/10</td>
-    <td>12. CNNs II</td>
+    <td>10. CNNs I</td>
     <td></td>
+    <td rowspan="3">PA3: Convolutional Neural Networks</td>
   </tr>
 
   <!-- Semana 8 -->
   <tr>
     <td rowspan="2">7</td>
     <td>21/10</td>
-    <td>13. RNNs I</td>
+    <td>11. CNNs II</td>
     <td></td>
   </tr>
   <tr>
     <td>23/10</td>
-    <td>14. RNNs II</td>
+    <td>12. RNNs I</td>
     <td></td>
-    <td rowspan="3">PA4: Recurrent Neural Networks</td>
+    <!-- <td></td> -->
   </tr>  
 
   <!-- Semana 9 -->
   <tr>
     <td rowspan="2">8</td>
     <td>28/10</td>
-    <td>15. Word Embeddings</td>
+    <td>13. RNNs II</td>
     <td></td>
+    <td rowspan="3">PA4: Recurrent Neural Networks</td>
   </tr>
   <tr>
     <td>30/10</td>
-    <td><b>Feriado Municipal (Dia da Cidade)</b></td>
+    <td>14. Word Embeddings</td>
     <td></td> 
+    <!-- <td></td> -->
   </tr>  
 
   <!-- Semana 10 -->
@@ -163,7 +170,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>04/11</td>
     <td>15. Attention</td>
     <td></td>
-    <td></td>
+    <!-- <td></td> -->
   </tr>
   <tr>
     <td>06/11</td>
