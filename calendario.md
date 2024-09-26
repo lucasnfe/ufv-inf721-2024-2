@@ -89,7 +89,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>6. Backpropagation<br>
       <a href="{{ 'assets/slides/L06-Backpropagation.pdf' | relative_url }}">[slides]</a>[notes][video]
     </td>
-    <td><a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html"> INNMC - The Multilayer Perceptron (Backpropagation)</a></td>
+    <td><a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html#Backpropagation-algorithm"> INNMC - The Multilayer Perceptron (Backpropagation)</a></td>
   </tr>
 
   <!-- Semana 5 -->
