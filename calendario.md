@@ -87,7 +87,8 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td>25/09</td>
     <td>6. Backpropagation<br>
-      <a href="{{ 'assets/slides/L06-Backpropagation.pdf' | relative_url }}">[slides]</a>[notes]
+      <a href="{{ 'assets/slides/L06-Backpropagation.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ 'assets/notes/L06-backpropagation.pdf' | relative_url }}">[notes]</a>
       <a href="https://colab.research.google.com/drive/19DfwHu1ZOPGJ8I4fHAzabCgISKc5JEhw?usp=sharing">[code]</a>
       <a href="https://youtu.be/43MVticRn5M">[video]</a>
     </td>
