@@ -19,7 +19,7 @@ A list of (mostly multiple choice) questions taken in the classroom with a durat
 Implementing neural models in Python and Jupyter Notebook using pre-defined classic datasets, with a duration of 1-2 weeks.
 
 - [PA1: Logistic Regression](/assignments/pa1-logistic-regression)
-- PA2: Multilayer Perceptron
+- [PA2: Multilayer Perceptron](/assignments/pa2-multilayer-perceptron)
 - PA3: Convolutional Neural Networks
 - PA4: Recurrent Neural Networks
 

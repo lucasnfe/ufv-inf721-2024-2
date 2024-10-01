@@ -15,7 +15,7 @@ While this course does not explicitly follow a specific textbook, the following 
 - [Deep Learning Foundations and Concepts, Christopher M. Bishop and Hugh Bishop, Springer, 2024](https://www.bishopbook.com/)
 - [Understanding Deep Learning; Simon J. D. Prince; The MIT Press, 2023](https://udlbook.github.io/udlbook/)
 - [The Little Book of Deep Learning; François Fleure; 2023](https://fleuret.org/francois/lbdl.html)
-- [An Introduction to Statistical Learning with Applications in Python; Gareth James et al.; 2023](https://www.statlearning.com/)
+- [Introduction to Neural Network Models of Cognition](https://com-cog-book.github.io/com-cog-book/intro)
 
 ## Related Courses
 
