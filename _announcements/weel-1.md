@@ -1,6 +1,6 @@
 ---
 title: Week 2
-week: 0
+week: 1
 date: 2024-09-19
 ---
 

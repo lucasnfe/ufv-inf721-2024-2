@@ -99,9 +99,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">4</td>
     <td>30/09</td>
-    <td><b>Feriado Municipal (Dia da Cidade)</b></td>
+    <td><b>Holiday (Dia da Cidade)</b></td>
     <td></td>
-    <td rowspan="3">PA2: Multilayer Perceptron</td>
+    <td rowspan="3"><a href="/assignments/pa2-multilayer-perceptron">PA2: Multilayer Perceptron</a></td>
   </tr>
   <tr>
     <td>02/10</td>
