@@ -92,7 +92,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="https://colab.research.google.com/drive/19DfwHu1ZOPGJ8I4fHAzabCgISKc5JEhw?usp=sharing">[code]</a>
       <a href="https://youtu.be/43MVticRn5M">[video]</a>
     </td>
-    <td><a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html#Backpropagation-algorithm"> INNMC - The Multilayer Perceptron (Backpropagation)</a></td>
+    <td>
+      <a href="https://com-cog-book.github.io/com-cog-book/features/multilayer-perceptron.html#Backpropagation-algorithm"> INNMC - The Multilayer Perceptron (Backpropagation)</a>
+    </td>
   </tr>
 
   <!-- Semana 5 -->
@@ -105,8 +107,14 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>02/10</td>
-    <td>7. Evaluting Neural Networks</td>
-    <td></td>
+    <td>7. Evaluting Neural Networks<br>
+      <a href="{{ 'assets/slides/L07-evaluating-models.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ '#' | relative_url }}">[notes]</a>
+      <a href="https://colab.research.google.com/drive/1Upq6ugok09FHRi3SzCpDdbPCEDr3uGTF?usp=sharing">[code]</a>
+      <a href="https://youtu.be/5uAzT4FxzbE">[video]</a>
+    </td>
+    <td>
+    </td>
   </tr>
 
   <!-- Semana 6 -->
