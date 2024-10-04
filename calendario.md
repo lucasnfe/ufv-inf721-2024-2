@@ -114,6 +114,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="https://youtu.be/5uAzT4FxzbE">[video]</a>
     </td>
     <td>
+    <a href="https://developers.google.com/machine-learning/crash-course/classification">Google ML, Classification</a>
     </td>
   </tr>
 
