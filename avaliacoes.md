@@ -27,7 +27,7 @@ Implementing neural models in Python and Jupyter Notebook using pre-defined clas
 
 Proposal, implementation, and evaluation of a transformer model for a learning problem of interest to the students, conducted individually or in pairs, with an approximate duration of 4 weeks.
 
-- FP1: Project Proposal
+- [FP1: Project Proposal](/assignments/fp1-project-proposal)
 - FP2: Project Implementation
 - FP3: Project Presentation
 

@@ -24,3 +24,8 @@ While this course does not explicitly follow a specific textbook, the following 
 - [MIT - 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Georgia Tech - CS 4644: Deep Learning](https://sites.cc.gatech.edu/classes/AY2023/cs7643_spring/)
 - [NYU - DS-GA 1008: Deep Learning](https://atcold.github.io/NYU-DLSP21/)
+
+## YouTube 
+
+- [Andrej Karpathy, Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [3Blue1Brown, Neural Networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=AhR8exwOIpOY2Fz1)

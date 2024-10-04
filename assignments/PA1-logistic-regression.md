@@ -9,7 +9,7 @@ nav_exclude: true
 
 #### Due date: 30/09, 11:59PM
 
-## Initialization
+## Getting Started
 Open the notebook `pa1-logistic-regression.ipynb` via Google Colab at this [[**link**]](https://colab.research.google.com/drive/1ZnGHU-Wk17M_1zSxTxHY5OHO7gWL8pvH?usp=sharing) and save a copy to your Google Drive.
 
 ## Instructions
