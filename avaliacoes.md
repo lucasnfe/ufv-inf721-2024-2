@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Grading
+title: Assignments
 nav_exclude: false
 description: A feed containing all of the class announcements.
 ---
 
-# Grading
+# Assignments
 
 ## Exams (40%)
 

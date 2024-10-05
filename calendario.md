@@ -109,7 +109,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>02/10</td>
     <td>7. Evaluting Neural Networks<br>
       <a href="{{ 'assets/slides/L07-evaluating-models.pdf' | relative_url }}">[slides]</a>
-      <a href="{{ '#' | relative_url }}">[notes]</a>
+      <a href="{{ 'assets/notes/L07-evaluating-models.pdf' | relative_url }}">[notes]</a>
       <a href="https://colab.research.google.com/drive/1Upq6ugok09FHRi3SzCpDdbPCEDr3uGTF?usp=sharing">[code]</a>
       <a href="https://youtu.be/5uAzT4FxzbE">[video]</a>
     </td>
