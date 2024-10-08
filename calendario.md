@@ -122,8 +122,14 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">5</td>
     <td>07/10</td>
-    <td>8. Regularization & Normalization</td>
-    <td></td>
+    <td>8. Regularization<br>
+      <a href="{{ 'assets/slides/L08-regularization.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ '#' | relative_url }}">[notes]</a>
+      <a href="{{ '#' | relative_url }}">[code]</a>
+      <a href="https://youtu.be/8PH78PJ-WxA">[video]</a>
+    </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>09/10</td>
