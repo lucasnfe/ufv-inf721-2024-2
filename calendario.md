@@ -136,7 +136,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>9. Advanced Optimization Algorithms<br>
       <a href="{{ 'assets/slides/L09-optimization.pdf' | relative_url }}">[slides]</a>
       <a href="{{ '#' | relative_url }}">[notes]</a>
-      <a href="{{ '#' | relative_url }}">[code]</a>
+      <a href="https://colab.research.google.com/drive/10SfBw31B0zA3yd5wFzjz9P5gy8x_R_dG?usp=sharing">[code]</a>
       <a href="https://youtu.be/5k47BbWpUsM">[video]</a>
     </td>
     <td>
