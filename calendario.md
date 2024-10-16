@@ -128,8 +128,8 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ '#' | relative_url }}">[code]</a>
       <a href="https://youtu.be/8PH78PJ-WxA">[video]</a>
     </td>
-    <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/270">Bishop 2024, Ch. 9: Regularization</a>
     <td>
+      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/270">Bishop 2024, Ch. 9: Regularization</a>
     </td>
   </tr>
   <tr>
