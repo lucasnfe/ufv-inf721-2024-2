@@ -128,6 +128,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ '#' | relative_url }}">[code]</a>
       <a href="https://youtu.be/8PH78PJ-WxA">[video]</a>
     </td>
+    <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/270">Bishop 2024, Ch. 9: Regularization</a>
     <td>
     </td>
   </tr>
@@ -140,6 +141,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="https://youtu.be/5k47BbWpUsM">[video]</a>
     </td>
     <td>
+      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/226">Bishop 2024, Ch. 7: Gradient Descent</a>
     </td>
     <td></td>
   </tr>
