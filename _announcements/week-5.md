@@ -1,7 +1,7 @@
 ---
 title: Week 6
 week: 6
-date: 2024-09-30
+date: 2024-10-16
 ---
 
 - [FP1: Project Proposal](/assignments/fp1-project-proposal) deadline has been extended to Oct. 18
