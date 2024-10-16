@@ -7,7 +7,7 @@ nav_exclude: true
 
 # FP1 - Project Proposal
 
-#### Due date: 16/10, 11:59PM
+#### Due date: ~~16/10~~ 18/10 (extended), 11:59PM
 
 ## Introduction
 
