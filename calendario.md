@@ -165,7 +165,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>
     <a href="https://com-cog-book.github.io/com-cog-book/features/cov-net.html">INNMC - The Convolutional Neural Network</a>
     </td>
-    <td rowspan="3">PA3: Convolutional Neural Networks</td>
+    <td rowspan="3"><a href="/assignments/pa3-cnn">PA3: Convolutional Neural Networks</a></td>
   </tr>
 
   <!-- Semana 8 -->

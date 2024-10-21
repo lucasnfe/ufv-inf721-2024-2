@@ -20,7 +20,7 @@ Implementing neural models in Python and Jupyter Notebook using pre-defined clas
 
 - [PA1: Logistic Regression](/assignments/pa1-logistic-regression)
 - [PA2: Multilayer Perceptron](/assignments/pa2-multilayer-perceptron)
-- PA3: Convolutional Neural Networks
+- [PA3: Convolutional Neural Networks](/assignments/pa3-cnn)
 - PA4: Recurrent Neural Networks
 
 ## Final Project (20%)
