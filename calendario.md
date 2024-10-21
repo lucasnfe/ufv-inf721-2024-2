@@ -158,7 +158,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>16/10</td>
     <td>10. CNNs I<br>
       <a href="{{ 'assets/slides/L10-cnn1.pdf' | relative_url }}">[slides]</a>
-      <a href="{{ '#' | relative_url }}">[notes]</a>
+      <a href="{{ 'assets/notes/L10-cnn1.pdf' | relative_url }}">[notes]</a>
       <a href="https://setosa.io/ev/image-kernels/">[demo]</a>
       <a href="https://youtu.be/HOYlW_F36mY">[video]</a>
     </td>
