@@ -163,7 +163,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="https://youtu.be/HOYlW_F36mY">[video]</a>
     </td>
     <td>
-    <a href="https://com-cog-book.github.io/com-cog-book/features/cov-net.html">INNMC - The Convolutional Neural Network</a>
+    <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/302">Bishop 2024, Ch. 10: Convolutional Networks (287-296)</a>
     </td>
     <td rowspan="3"><a href="/assignments/pa3-cnn">PA3: Convolutional Neural Networks</a></td>
   </tr>
@@ -175,8 +175,10 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>11. CNNs II<br>
     </td>
       <a href="{{ 'assets/slides/L11-cnn2.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ 'assets/notes/L11-cnn2.pdf' | relative_url }}">[notes]</a>
       <a href="https://youtu.be/pCTIaz-6ieg">[video]</a>
     <td>
+        <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/312">Bishop 2024, Ch. 10: Convolutional Networks (296-301)</a>
     </td>
   </tr>
   <tr>
