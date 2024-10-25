@@ -172,8 +172,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">7</td>
     <td>21/10</td>
-    <td>11. CNNs II</td>
-    <td></td>
+    <td>11. CNNs II<br>
+    </td>
+      <a href="{{ 'assets/slides/L11-cnn2.pdf' | relative_url }}">[slides]</a>
+      <a href="https://youtu.be/pCTIaz-6ieg">[video]</a>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>23/10</td>
