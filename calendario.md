@@ -183,8 +183,13 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>23/10</td>
-    <td>12. Normalization</td>
-    <td></td>
+    <td>12. Normalization<br>
+      <a href="{{ 'assets/slides/L12-normalization.pdf' | relative_url }}">[slides]</a>
+      <a href="https://colab.research.google.com/drive/1ENxS8fY82k12ePPsNFkzHEEhoetpH7Tm?usp=sharing">[code]</a>
+    </td>
+    <td>
+      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/312">Bishop 2024, Ch. 7: Gradient Descent (226-230)</a>
+    </td>
     <!-- <td></td> -->
   </tr>  
 
