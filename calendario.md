@@ -183,7 +183,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>23/10</td>
-    <td>12. RNNs I</td>
+    <td>12. Normalization</td>
     <td></td>
     <!-- <td></td> -->
   </tr>  
@@ -192,13 +192,13 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">8</td>
     <td>28/10</td>
-    <td>13. RNNs II</td>
+    <td>13. RNNs I</td>
     <td></td>
     <td rowspan="3">PA4: Recurrent Neural Networks</td>
   </tr>
   <tr>
     <td>30/10</td>
-    <td>14. Word Embeddings</td>
+    <td>14. RNNs II</td>
     <td></td> 
     <!-- <td></td> -->
   </tr>  
@@ -207,13 +207,13 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">9</td>
     <td>04/11</td>
-    <td>15. Attention</td>
+    <td>15. Word Embeddings</td>
     <td></td>
     <!-- <td></td> -->
   </tr>
   <tr>
     <td>06/11</td>
-    <td>16. Transformers I</td>
+    <td>16. Attention</td>
     <td></td>
     <td rowspan="9">FP2: Project Implementation</td>
   </tr>  
@@ -222,12 +222,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">10</td>
     <td>11/11</td>
-    <td>17. Transformers II</td>
+    <td>17. Transformers I</td>
     <td></td>
   </tr>
   <tr>
     <td>13/11</td>
-    <td>18. Transfer Learning</td>
+    <td>18. Transformers II</td>
     <td></td>
   </tr>  
 
