@@ -199,13 +199,17 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">8</td>
     <td>28/10</td>
-    <td>13. RNNs I</td>
+    <td>13. RNNs I<br>
+      <a href="{{ 'assets/slides/L13-rnn1.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td>
     <td rowspan="3">PA4: Recurrent Neural Networks</td>
   </tr>
   <tr>
     <td>30/10</td>
-    <td>14. RNNs II</td>
+    <td>14. RNNs II<br>
+      <a href="{{ 'assets/slides/L14-rnn2.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td> 
     <!-- <td></td> -->
   </tr>  
