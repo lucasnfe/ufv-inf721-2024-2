@@ -203,7 +203,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/slides/L13-rnn1.pdf' | relative_url }}">[slides]</a>
     </td>
     <td></td>
-    <td rowspan="3">PA4: Recurrent Neural Networks</td>
+    <td rowspan="3"><a href="/assignments/pa4-rnn">PA4: Recurrent Neural Networks</a></td>
   </tr>
   <tr>
     <td>30/10</td>
