@@ -202,7 +202,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>13. RNNs I<br>
       <a href="{{ 'assets/slides/L13-rnn1.pdf' | relative_url }}">[slides]</a>
     </td>
-    <td></td>
+    <td>
+        <a href="https://com-cog-book.github.io/com-cog-book/features/recurrent-net.html"> INNMC - The Recurrent Neural Network (Elman Network)</a>
+    </td>
     <td rowspan="3"><a href="/assignments/pa4-rnn">PA4: Recurrent Neural Networks</a></td>
   </tr>
   <tr>
@@ -210,7 +212,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>14. RNNs II<br>
       <a href="{{ 'assets/slides/L14-rnn2.pdf' | relative_url }}">[slides]</a>
     </td>
-    <td></td> 
+    <td>
+            <a href="https://com-cog-book.github.io/com-cog-book/features/recurrent-net.html#Long-Short-Term-Memory-Network"> INNMC - The Recurrent Neural Network (LSTM)</a>
+    </td> 
     <!-- <td></td> -->
   </tr>  
 
