@@ -201,6 +201,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>28/10</td>
     <td>13. RNNs I<br>
       <a href="{{ 'assets/slides/L13-rnn1.pdf' | relative_url }}">[slides]</a>
+      <a href="https://youtu.be/tHTns0ag710">[video]</a>
     </td>
     <td>
         <a href="https://com-cog-book.github.io/com-cog-book/features/recurrent-net.html"> INNMC - The Recurrent Neural Network (Elman Network)</a>
