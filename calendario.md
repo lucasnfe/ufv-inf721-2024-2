@@ -222,7 +222,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">9</td>
     <td>04/11</td>
-    <td>15. Word Embeddings</td>
+    <td>15. Word Embeddings<br>
+      <a href="{{ 'assets/slides/L15-word-embedding.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td>
     <!-- <td></td> -->
   </tr>
