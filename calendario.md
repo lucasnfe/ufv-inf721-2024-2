@@ -231,7 +231,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>06/11</td>
-    <td>16. Attention</td>
+    <td>16. Attention<br>
+      <a href="{{ 'assets/slides/L16-attention.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td>
     <td rowspan="9">FP2: Project Implementation</td>
   </tr>  
@@ -240,7 +242,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">10</td>
     <td>11/11</td>
-    <td>17. Transformers I</td>
+    <td>17. Transformers I<br>
+      <a href="{{ 'assets/slides/L17-transformers1.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td>
   </tr>
   <tr>
