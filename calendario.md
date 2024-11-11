@@ -233,6 +233,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>06/11</td>
     <td>16. Attention<br>
       <a href="{{ 'assets/slides/L16-attention.pdf' | relative_url }}">[slides]</a>
+      <a href="https://colab.research.google.com/drive/15H47hgj892aD_PGgRJ1mpkhAzfuRQ_cj?usp=sharing">[code]</a>
     </td>
     <td></td>
     <td rowspan="9">FP2: Project Implementation</td>
@@ -245,7 +246,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>17. Transformers I<br>
       <a href="{{ 'assets/slides/L17-transformers1.pdf' | relative_url }}">[slides]</a>
     </td>
-    <td></td>
+    <td>
+    <a href="https://nlp.seas.harvard.edu/annotated-transformer"> The Annotated Transformer - The Harvard NLP Group</a>
+    </td>
   </tr>
   <tr>
     <td>13/11</td>
