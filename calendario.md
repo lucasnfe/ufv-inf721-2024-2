@@ -212,6 +212,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>30/10</td>
     <td>14. RNNs II<br>
       <a href="{{ 'assets/slides/L14-rnn2.pdf' | relative_url }}">[slides]</a>
+      <a href="https://youtu.be/Aetd41ovh-c">[video]</a>
     </td>
     <td>
             <a href="https://com-cog-book.github.io/com-cog-book/features/recurrent-net.html#Long-Short-Term-Memory-Network"> INNMC - The Recurrent Neural Network (LSTM)</a>
