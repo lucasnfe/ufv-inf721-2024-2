@@ -254,7 +254,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>13/11</td>
-    <td>18. Transformers II</td>
+    <td>18. Transformers II<br>
+      <a href="{{ 'assets/slides/L18-transformers2.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td>
   </tr>  
 
