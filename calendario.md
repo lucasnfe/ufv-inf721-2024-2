@@ -259,7 +259,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/slides/L18-transformers2.pdf' | relative_url }}">[slides]</a>
       <a href="https://colab.research.google.com/drive/1fjX6u-05vl-YCxSzlGKkhhh31asw4Eg-?usp=sharing">[code]</a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/398">Bishop 2024, Ch. 12.3: Transformer Language Models (382-394)</a>
+    </td>
   </tr>  
 
   <!-- Semana 12 -->
