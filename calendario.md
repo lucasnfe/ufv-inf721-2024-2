@@ -265,12 +265,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">11</td>
     <td>18/11</td>
-    <td><b>Midterm Exam II</b></td>
+    <td>19. GANs</td>
     <td></td>
   </tr>
   <tr>
     <td>20/11</td>
-    <td>19. Transfer Learning</td>
+    <td><b>Holiday (Consciência Negra)</b></td>
     <td></td>
   </tr>  
 
@@ -278,7 +278,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">12</td>
     <td>25/11</td>
-    <td>20. GANs</td>
+    <td><b>Midterm Exam II</b></td>
     <td></td>
   </tr>
   <tr>
