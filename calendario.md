@@ -248,9 +248,10 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>11/11</td>
     <td>17. Transformers I<br>
       <a href="{{ 'assets/slides/L17-transformers1.pdf' | relative_url }}">[slides]</a>
+      <a href="https://youtu.be/ePfZblOKFZY">[video]</a>
     </td>
     <td>
-      <a href="https://nlp.seas.harvard.edu/annotated-transformer"> The Annotated Transformer - The Harvard NLP Group</a>
+      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/372">Bishop 2024, Ch. 12 (Sec. 1): Transformer (357-374)</a>
     </td>
   </tr>
   <tr>
@@ -260,7 +261,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="https://colab.research.google.com/drive/1fjX6u-05vl-YCxSzlGKkhhh31asw4Eg-?usp=sharing">[code]</a>
     </td>
     <td>
-      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/398">Bishop 2024, Ch. 12.3: Transformer Language Models (382-394)</a>
+      <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/398">Bishop 2024, Ch. 12 (Sec. 3.): Transformer Language Models (382-394)</a>
     </td>
   </tr>  
 
@@ -268,7 +269,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">11</td>
     <td>18/11</td>
-    <td>19. GANs</td>
+    <td>19. Multimodal Learning</td>
     <td></td>
   </tr>
   <tr>
@@ -286,7 +287,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>27/11</td>
-    <td>21. Variational Autoencoders</td>
+    <td>21. GANs</td>
     <td></td>
   </tr>  
 
@@ -294,12 +295,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">13</td>
     <td>02/12</td>
-    <td>22. Diffusion Models</td>
+    <td>22. Variational Autoencoders</td>
     <td></td>
   </tr>
   <tr>
     <td>04/12</td>
-    <td>23. Multimodal Learning</td>
+    <td>23. Diffusion Models</td>
     <td></td>
   </tr>  
 
