@@ -272,6 +272,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>18/11</td>
     <td>19. Multimodal Learning<br>
       <a href="{{ 'assets/slides/L19-multimodal-learning.pdf' | relative_url }}">[slides]</a>
+      <a href="https://colab.research.google.com/drive/1PgCtEBNxB1ZxlguE0kfRMKp0QrtkYV6z?usp=sharing">[code]</a>
     </td>
     <td></td>
   </tr>
