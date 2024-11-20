@@ -270,7 +270,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">11</td>
     <td>18/11</td>
-    <td>19. Multimodal Learning</td>
+    <td>19. Multimodal Learning<br>
+      <a href="{{ 'assets/slides/L19-multimodal-learning.pdf' | relative_url }}">[slides]</a>
+    </td>
     <td></td>
   </tr>
   <tr>
@@ -283,12 +285,12 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">12</td>
     <td>25/11</td>
-    <td><b>Midterm Exam II</b></td>
+    <td>21. GANs</td>
     <td></td>
   </tr>
   <tr>
     <td>27/11</td>
-    <td>21. GANs</td>
+    <td><b>Midterm Exam II</b></td>
     <td></td>
   </tr>  
 
