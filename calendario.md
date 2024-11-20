@@ -274,7 +274,9 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
       <a href="{{ 'assets/slides/L19-multimodal-learning.pdf' | relative_url }}">[slides]</a>
       <a href="https://colab.research.google.com/drive/1PgCtEBNxB1ZxlguE0kfRMKp0QrtkYV6z?usp=sharing">[code]</a>
     </td>
-    <td></td>
+    <td>
+    <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/398">Bishop 2024, Ch. 12 (Sec. 4.): Multimodal Transformers (394-403)</a>
+    </td>
   </tr>
   <tr>
     <td>20/11</td>
