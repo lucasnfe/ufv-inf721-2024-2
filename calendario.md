@@ -238,6 +238,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>06/11</td>
     <td>16. Attention<br>
       <a href="{{ 'assets/slides/L16-attention.pdf' | relative_url }}">[slides]</a>
+      <a href="{{ 'assets/notes/L16-attention.pdf' | relative_url }}">[notes]</a>
       <a href="https://colab.research.google.com/drive/15H47hgj892aD_PGgRJ1mpkhAzfuRQ_cj?usp=sharing">[code]</a>
       <a href="https://youtu.be/NNj7l3L0GO8">[video]</a>
     </td>
