@@ -293,7 +293,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">12</td>
     <td>25/11</td>
-    <td>21. GANs</td>
+    <td><b>Review</b></td>
     <td></td>
   </tr>
   <tr>
@@ -306,7 +306,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">13</td>
     <td>02/12</td>
-    <td>22. Variational Autoencoders<br>
+    <td>20. Variational Autoencoders<br>
       <a href="{{ 'assets/slides/L20-vae.pdf' | relative_url }}">[slides]</a>
       <a href="https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing">[code]</a>
       <a href="https://youtu.be/v5jM-Kvd4V8">[video]</a>
@@ -317,7 +317,7 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   </tr>
   <tr>
     <td>04/12</td>
-    <td>23. Diffusion Models</td>
+    <td>21. GANs</td>
     <td></td>
   </tr>  
 
