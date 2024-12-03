@@ -306,8 +306,14 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
   <tr>
     <td rowspan="2">13</td>
     <td>02/12</td>
-    <td>22. Variational Autoencoders</td>
-    <td></td>
+    <td>22. Variational Autoencoders<br>
+      <a href="{{ 'assets/slides/L20-vae.pdf' | relative_url }}">[slides]</a>
+      <a href="https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing">[code]</a>
+      <a href="https://youtu.be/v5jM-Kvd4V8">[video]</a>
+    </td>
+    <td>
+    <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/398">Bishop 2024, Ch. 19: Autoencoders</a>
+    </td>
   </tr>
   <tr>
     <td>04/12</td>
