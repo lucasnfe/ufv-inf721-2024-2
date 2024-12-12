@@ -29,5 +29,5 @@ Proposal, implementation, and evaluation of a transformer model for a learning p
 
 - [FP1: Project Proposal](/assignments/fp1-project-proposal)
 - FP2: Project Implementation
-- FP3: Project Presentation
+- [FP3: Project Presentation](/assignments/fp3-project-presentation)
 
