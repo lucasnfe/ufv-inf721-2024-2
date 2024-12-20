@@ -319,6 +319,8 @@ Course schedule following the [[CEPE RESOLUTION Nº 7/2024]](https://www2.dti.uf
     <td>04/12</td>
     <td>21. GANs<br>
       <a href="{{ 'assets/slides/L21-gans.pdf' | relative_url }}">[slides]</a>
+      <a href="https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html">[code]</a>
+      <a href="https://youtu.be/oBf-VaI8FO0">[video]</a>
     </td>
     <td>
     <a href="https://issuu.com/cmb321/docs/deep_learning_ebook/546">Bishop 2024, Ch. 17: Generative Adversarial Networks</a>
